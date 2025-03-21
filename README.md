@@ -1,5 +1,5 @@
 <img src="https://10pearls.com/wp-content/uploads/2022/01/Banner@3x-scaled.webp">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Vineet Singh</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Vineet Singh</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
 <img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
