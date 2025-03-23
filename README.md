@@ -1,4 +1,4 @@
-<img src="https://10pearls.com/wp-content/uploads/2022/01/Banner@3x-scaled.webp">
+<img src="https://www.trigent.in/services/images/qa-banner3.jpg">
 <h1 align="center">Hii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Vineet Singh</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
