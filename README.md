@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Selenium, Maven, Jenkins**
 
-- 💬 Ask me about **JavaScript, CSS, HTML, Cypress**
+- 💬 Ask me about **JavaScript, CSS, HTML, Cypress, and Selenium**
 
 - 📫 How to reach me **0717vineet@gmail.com**
 
